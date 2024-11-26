@@ -15,15 +15,17 @@ I completed the coding in 4 hours, and I then took 2 more hours to review and ma
 
 ## Algorithm & Approach
 
-To build the backend, i've used nodejs v20.11.1 and the NestJs framework on version ^10.0.0.
+For the backend, I used Node.js (version 20.11.1) along with the NestJS framework (version ^10.0.0).
 
-In the backend, I just created one folder called "passwordCards" with two files inside (passwordCards.service.ts and passwordCards.service.ts). All the data is managed in a JSON file called data.json.
+The backend is organized into a single folder named passwordCards, which contains two key files:
 
-Both files ((passwordCards.service.ts and passwordCards.service.ts) are loaded on app.module.ts, still in this module i had to configure CORS so i could make all the API requests with no problems.
+passwordCards.service.ts
+passwordCards.controller.ts
+All data is stored and managed in a JSON file named data.json.
 
-For the backend, i've tried to let things as simple as possible.
+Both the service and controller files are loaded in the app.module.ts file. Additionally, I configured CORS in this module to ensure smooth handling of all API requests.
 
-I also let the card id creation management go to the backend.
+To keep the backend simple and efficient, I delegated the responsibility for managing card ID creation to the backend itself.
 
 **API endpoints**
  - /passwordCards, GET (findAll)
