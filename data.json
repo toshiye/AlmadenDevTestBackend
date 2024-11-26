@@ -145,12 +145,5 @@
     "name": "Microsoft",
     "username": "amandap",
     "password": "windowsSecure123"
-  },
-  {
-    "id": "1732561197135",
-    "name": "Github",
-    "username": "user",
-    "url": "https://github.com/",
-    "password": "321654987"
   }
 ]
