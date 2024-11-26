@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1697366400000",
+    "url": "https://google.com",
+    "name": "Google",
+    "username": "johndoe",
+    "password": "password123"
+  },
+  {
+    "id": "1697366400001",
+    "url": "https://facebook.com",
+    "name": "Facebook",
+    "username": "janesmith",
+    "password": "mypassword456"
+  },
+  {
+    "id": "1697366400002",
+    "url": "https://twitter.com",
+    "name": "Twitter",
+    "username": "alexj",
+    "password": "securepass789"
+  },
+  {
+    "id": "1697366400003",
+    "url": "https://linkedin.com",
+    "name": "LinkedIn",
+    "username": "emilyb",
+    "password": "emily2024!"
+  },
+  {
+    "id": "1697366400004",
+    "url": "https://gmail.com",
+    "name": "Gmail",
+    "username": "miked",
+    "password": "email@secure123"
+  },
+  {
+    "id": "1697366400005",
+    "url": "https://dropbox.com",
+    "name": "Dropbox",
+    "username": "swilson",
+    "password": "cloudyDay$123"
+  },
+  {
+    "id": "1697366400006",
+    "url": "https://chase.com",
+    "name": "Chase Bank",
+    "username": "davidlee",
+    "password": "bank$afe2024"
+  },
+  {
+    "id": "1697366400007",
+    "url": "https://yahoo.com",
+    "name": "Yahoo",
+    "username": "richardt",
+    "password": "yahooSecure987"
+  },
+  {
+    "id": "1697366400008",
+    "url": "https://instagram.com",
+    "name": "Instagram",
+    "username": "sarahw",
+    "password": "instaPass!123"
+  },
+  {
+    "id": "1697366400009",
+    "url": "https://amazon.com",
+    "name": "Amazon",
+    "username": "michaelb",
+    "password": "shop@secure456"
+  },
+  {
+    "id": "1697366400010",
+    "url": "https://netflix.com",
+    "name": "Netflix",
+    "username": "jenniferd",
+    "password": "netflix123!"
+  },
+  {
+    "id": "1697366400011",
+    "url": "https://spotify.com",
+    "name": "Spotify",
+    "username": "danielm",
+    "password": "musicSecure@789"
+  },
+  {
+    "id": "1697366400012",
+    "url": "https://reddit.com",
+    "name": "Reddit",
+    "username": "susanp",
+    "password": "redditPower@123"
+  },
+  {
+    "id": "1697366400013",
+    "url": "https://twitch.tv",
+    "name": "Twitch",
+    "username": "kevinj",
+    "password": "streaming123!"
+  },
+  {
+    "id": "1697366400014",
+    "url": "https://ebay.com",
+    "name": "eBay",
+    "username": "carolynh",
+    "password": "shop@ebay2024"
+  },
+  {
+    "id": "1697366400015",
+    "url": "https://paypal.com",
+    "name": "PayPal",
+    "username": "richardc",
+    "password": "paySecure@456"
+  },
+  {
+    "id": "1697366400016",
+    "url": "https://snapchat.com",
+    "name": "Snapchat",
+    "username": "emilys",
+    "password": "snapSecure!2024"
+  },
+  {
+    "id": "1697366400017",
+    "url": "https://whatsapp.com",
+    "name": "WhatsApp",
+    "username": "georgep",
+    "password": "whatsApp!789"
+  },
+  {
+    "id": "1697366400018",
+    "url": "https://zoom.us",
+    "name": "Zoom",
+    "username": "natalieb",
+    "password": "zoomSecure2024!"
+  },
+  {
+    "id": "1697366400019",
+    "url": "https://apple.com",
+    "name": "Apple",
+    "username": "jasonw",
+    "password": "apple@2024"
+  },
+  {
+    "id": "1697366400020",
+    "url": "https://microsoft.com",
+    "name": "Microsoft",
+    "username": "amandap",
+    "password": "windowsSecure123"
+  },
+  {
+    "id": "1732561197135",
+    "name": "Github",
+    "username": "user",
+    "url": "https://github.com/",
+    "password": "321654987"
+  }
+]
